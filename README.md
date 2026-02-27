@@ -33,7 +33,7 @@
 
 ### Step 2 — Deploy (Pick One)
 
-#### Option A — GitHub Pages (Recommended)
+#### Option A — GitHub Pages (The one which we used)
 ```
 1. Fork or upload index.html to a new public repo
 2. Go to Settings → Pages → Deploy from branch → main / (root)
