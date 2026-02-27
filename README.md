@@ -14,7 +14,7 @@
 - 🎙️ **3D animated news anchor** rendered on HTML5 Canvas at 60fps
 - 👄 **Live lip sync** — mouth moves in sync with every word spoken
 - 🌍 **9 news topics** — World, Tech, Science, Finance, Space, Sports, Health, Film, Politics
-- 🇮🇳 **Multilingual** — English, Hindi, and Hinglish support
+- 🧾 **Multilingual** — English, Hindi, and Hinglish support
 - 📱 **Fully responsive** — works on mobile, tablet, and desktop
 - 💾 **Zero data collection** — API key stored only in your browser
 - 🚀 **Deploy in 5 minutes** — single file, drag & drop to GitHub Pages or Netlify
